@@ -25,6 +25,6 @@ Currently, our project is in the publication phase. As part of our commitment to
 ## Contact
 
 For inquiries, issues, or suggestions, please feel free to reach out via harshithppuram@gmail.com or rohithshinoj@gmail.com.
-Sincerely,
+
 
 
