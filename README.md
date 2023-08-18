@@ -16,7 +16,7 @@ To effectively address the problem of ARP spoofing, we introduced a novel CNN-LS
 
 ## Conference Acceptance
 
-We are thrilled to announce that our project titled **__"Deep Learning based framework for dynamic Detection and Mitigation of ARP Spoofingattacks"__** has been accepted for presentation at the **__14th International Conference on Computing, Communication, and Networking Technologies (ICCCNT)__**, hosted by IIT Delhi. The conference will provide us with the opportunity to share our findings, insights, and innovations with the research community and industry experts.
+We are thrilled to announce that our project titled **__"Deep Learning based framework for dynamic Detection and Mitigation of ARP Spoofing attacks"__** has been accepted for presentation at the **__14th International Conference on Computing, Communication, and Networking Technologies (ICCCNT)__**, hosted by IIT Delhi. The conference will provide us with the opportunity to share our findings, insights, and innovations with the research community and industry experts.
 
 ## Publication Status
 
